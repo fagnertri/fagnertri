@@ -1,6 +1,6 @@
 ## Oiii eu sou o Fagner Célio
 * 📚 Gama Academy
-* ✍️ Objetivo: Ser uma Desenvolvedor Full Stack
+* ✍️ Objetivo: Ser um Desenvolvedor Full Stack 
 
 <div align="center">
   <a href="https://github.com/fagnertri">
